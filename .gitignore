@@ -1,1 +1,5 @@
 target
+.idea
+.replit
+replit.nix
+images/output/*

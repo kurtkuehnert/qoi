@@ -1,5 +1,5 @@
 [package]
-name = "my-project"
+name = "qoi-qoi"
 version = "0.1.0"
 authors = ["runner"]
 edition = "2021"
@@ -7,3 +7,12 @@ edition = "2021"
 [dependencies]
 structview = "*"
 image = "*"
+
+[dev-dependencies]
+criterion = "*"
+rapid-qoi = "*"
+qoi = "*"
+
+[[bench]]
+name = "decode_benchmark"
+harness = false

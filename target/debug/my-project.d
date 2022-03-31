@@ -1,1 +1,1 @@
-/home/runner/qoi/target/debug/my-project: /home/runner/qoi/src/main.rs
+/home/kurt/Code/Rust/qoi/target/debug/my-project: /home/kurt/Code/Rust/qoi/src/main.rs
