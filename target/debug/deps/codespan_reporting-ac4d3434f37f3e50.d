@@ -1,0 +1,11 @@
+/home/runner/qoi/target/debug/deps/codespan_reporting-ac4d3434f37f3e50.rmeta: /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/lib.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/diagnostic.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/files.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/config.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/renderer.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/views.rs
+
+/home/runner/qoi/target/debug/deps/codespan_reporting-ac4d3434f37f3e50.d: /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/lib.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/diagnostic.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/files.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/config.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/renderer.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/views.rs
+
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/lib.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/diagnostic.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/files.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/config.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/renderer.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/views.rs:

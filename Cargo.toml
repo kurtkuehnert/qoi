@@ -1,0 +1,9 @@
+[package]
+name = "my-project"
+version = "0.1.0"
+authors = ["runner"]
+edition = "2021"
+
+[dependencies]
+structview = "*"
+image = "*"
