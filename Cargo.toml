@@ -14,5 +14,5 @@ rapid-qoi = "*"
 qoi = "*"
 
 [[bench]]
-name = "decode_benchmark"
+name = "benchmark"
 harness = false

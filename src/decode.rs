@@ -1,4 +1,4 @@
-use crate::{hash, Image, ParseError, Pixel, QOIHeader, MAGIC, STREAM_END};
+use crate::{hash, Image, ParseError, Pixel, QOIHeader, QOI_END, QOI_MAGIC};
 use std::mem::size_of;
 use structview::View;
 
@@ -11,13 +11,13 @@ pub fn decode(data: &[u8]) -> Result<Image, ParseError> {
     let header = QOIHeader::view(header).expect("Could not parse header.");
 
     let end = data
-        .take(data.len() - STREAM_END.len()..)
+        .take(data.len() - QOI_END.len()..)
         .ok_or(ParseError::TruncatedFile)?;
 
-    if header.magic != MAGIC {
+    if header.magic != QOI_MAGIC {
         return Err(ParseError::InvalidMagic);
     }
-    if end != STREAM_END {
+    if end != QOI_END {
         return Err(ParseError::TruncatedFile);
     }
 
